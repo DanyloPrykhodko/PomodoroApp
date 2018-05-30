@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/e21c30d02d07c10d8b895afbb96ec155e765b8f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_e4fada83d399d167dba07e5c3a441aa0f2eab601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8bbc75366384fb415a70d27dedfa2516d6b96479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/cf3abc1f1eeb1639d6c0c1050b6223544764efc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_2470342eb5075eab704a5624ea1b67d4128eb8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/43058cf01df6273142bcd6c5f7dabdbc7a4925e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_e7d26a6904e8e3e1064f60abea8e508acef573bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/c394a2de2e90d06a206e7d6795ebe7adc83f8e5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_c7785027e8550e4ffb12f7b951090b1434d7be25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/1607d07a7017fc45ead123c29a780285fba2b06e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_1acdac9d606cd8d345f96de56f59f98a06740601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/98e74b4b4e3552187f497c7d5e41d138371a2288/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_cd498da37f489fa832c631559538e97d227cb017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/d1cadebfe05dc369c6d2cb13b19d6b6bfb25a435/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_e006c95664eab3803b7e03b865ee3f2f4f3789ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/109b02724c6f51186146e220650eb670f92e49b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_0f348547cd380ce8c47772621e5d9a3569191fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/348702e299b8f9043e42edd2ce6f7d47d38db3d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_d0d28d5153c151789c78d85b5c5940d04de237b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.android/build-cache/e82a1f3c9bdac932f2f8e1e5f0e4f154bb8da7c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/classes_4bb38b463f1cd5fa2fbe0513f05f765ad4da758a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drpryhodko/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/drpryhodko/IdeaProjects/Android/PomodoroApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_852ed382e1d864e965b8cf1b02991c9c5176844b.jar" />
+    </item>
+
+</items>
